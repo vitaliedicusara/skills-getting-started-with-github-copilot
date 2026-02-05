@@ -9,7 +9,7 @@
 .participants-section {
     margin-top: 10px;
     padding: 10px;
-    background-color: #f9f9f9;
+    background-color: #f1f1f1;
     border-radius: 5px;
 }
 
@@ -17,6 +17,12 @@
     margin: 0 0 5px;
     font-size: 1.2em;
     color: #333;
+}
+
+.participants-section h5 {
+    margin: 0 0 5px;
+    font-size: 1.1em;
+    color: #444;
 }
 
 .participants-list {
@@ -27,6 +33,6 @@
 
 .participants-list li {
     margin: 5px 0;
-    font-size: 1em;
+    font-size: 0.95em;
     color: #555;
 }
